@@ -1,0 +1,40 @@
+
+https://automationpanda.com/2017/09/14/django-projects-in-pycharm-community-edition/
+https://django.readthedocs.io/en/2.1.x/intro/tutorial01.html
+admin:
+
+django-admin startproject djangpapp
+python manage.py migrate
+
+python manage.py createsuperuser
+
+username:user
+email:baijunet@gmail.com
+pass:12345
+
+E:\django_study\djangpapp
+python manage.py migrate
+
+
+http://127.0.0.1:8000/admin/
+
+python manage.py startapp myapp
+
+python manage.py runserver
+
+
+
+
+C:\Users\user\AppData\Local\Programs\Python\Python37-32
+C:\Users\user\AppData\Local\Programs\Python\Python37-32\Lib\site-packages\django
+
+
+https://stackoverflow.com/questions/46902357/error-loading-mysqldb-module-did-you-install-mysqlclient-or-mysql-python/46902496
+
+https://docs.djangoproject.com/en/2.1/intro/tutorial01/
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment
+
+https://www.simplifiedpython.net/python-django-tutorial-for-beginners/#Prerequisites
+
+https://www.simplifiedpython.net/django-views-tutorial-creating-view/
